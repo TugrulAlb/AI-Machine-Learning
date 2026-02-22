@@ -139,13 +139,4 @@ Throughout this bootcamp, I have gained expertise in:
 - ✅ **Model Evaluation**: Cross-validation, metrics selection, ROC curves
 - ✅ **Hyperparameter Tuning**: Grid search and randomized search
 - ✅ **Business Problem Solving**: Translating real-world problems into ML tasks
-
----
-
-##  License
-
-This project is open source and available for educational purposes.
-
----
-
-*Built with passion for AI and commitment to continuous learning* 🚀
+  
